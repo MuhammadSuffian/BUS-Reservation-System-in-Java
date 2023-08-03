@@ -4,8 +4,8 @@ This is a Java-based bus reservation system that allows administrators and custo
 <br>
 <h2>Features:</h2>
 
-<h3>Administrator Role:</h3> The system supports an admin role for managing the system.<br><br>
-<h3>Authentication:</h3> The admin can log in using a username and password for secure access<br><br>
+<h3>Administrator Role:</h3> The system supports an admin role for managing the system.
+<h3>Authentication:</h3> The admin can log in using a username and password for secure access
 <h3>Admin Operations:</h3>  Once logged in, the admin can perform the following operations:
 <h3>View available tickets:</h3>  Display a list of available tickets that can be booked.
 <h3>View booked tickets:</h3>  Display a list of tickets that have been already booked.
